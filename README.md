@@ -13,6 +13,9 @@ I build, break, and rebuild — code, systems, and ideas.
 - **Skills:** Vulnerability Scanning • NLML  
 
 ---
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-wave.gif" width="200" alt="Anime Wave" />
+</p>
 
 ## 🎯 Current Mission
 - Learning By Doing
@@ -30,6 +33,3 @@ Every line of code should be tactical, every design intentional.
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/vaishnavan10/)  
 ---
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-wave.gif" width="200" alt="Anime Wave" />
-</p>
