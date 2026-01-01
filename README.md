@@ -31,6 +31,5 @@ Every line of code should be tactical, every design intentional.
 - [LinkedIn](https://www.linkedin.com/in/vaishnavan10/)  
 ---
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/luffy-one-piece.gif" width="250" alt="Luffy AI vibe" />
-  <img src="https://media.tenor.com/3bTxZ6Q2a3IAAAAC/zoro-one-piece.gif" width="250" alt="Zoro AI vibe" />
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-wave.gif" width="400" alt="Anime Wave" />
 </p>
