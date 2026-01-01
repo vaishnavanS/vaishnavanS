@@ -33,8 +33,4 @@ Every line of code should be tactical, every design intentional.
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/vaishnavan10/)
 ---
-<p align="center">
-  <img src="https://media.tenor.com/3bTxZ6Q2a3IAAAAC/zoro-one-piece.gif" width="290" alt="Zoro">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/luffy-one-piece.gif" width="290" alt="Luffy">
-</p>
-
+<p align="left"><img src="https://img.shields.io/badge/Cybersecurity-On%20Guard-00d1ff?style=for-the-badge&labelColor=0b1220"><img src="https://img.shields.io/badge/Web%20Dev-Minimalist-8a2be2?style=for-the-badge&labelColor=0b1220"><img src="https://img.shields.io/badge/Competitive%20Programming-Tactical%20Mode-ff3860?style=for-the-badge&labelColor=0b1220"></p>
