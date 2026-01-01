@@ -31,5 +31,5 @@ Every line of code should be tactical, every design intentional.
 - [LinkedIn](https://www.linkedin.com/in/vaishnavan10/)  
 ---
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-wave.gif" width="400" alt="Anime Wave" />
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-wave.gif" width="200" alt="Anime Wave" />
 </p>
