@@ -13,8 +13,8 @@ I build, break, and rebuild — code, systems, and ideas.
 - **Skills:** Vulnerability Scanning • NLML  
 
 ---
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-wave.gif" width="200" alt="Anime Wave" />
+<p align="left">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-wave.gif" width="150" alt="Anime Wave" />
 </p>
 
 ## 🎯 Current Mission
