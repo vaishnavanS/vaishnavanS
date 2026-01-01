@@ -31,5 +31,10 @@ Every line of code should be tactical, every design intentional.
 ---
 
 ## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/vaishnavan10/)  
+- [LinkedIn](https://www.linkedin.com/in/vaishnavan10/)
 ---
+<p align="center">
+  <img src="https://media.tenor.com/3bTxZ6Q2a3IAAAAC/zoro-one-piece.gif" width="290" alt="Zoro">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/luffy-one-piece.gif" width="290" alt="Luffy">
+</p>
+
