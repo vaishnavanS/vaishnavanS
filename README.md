@@ -31,20 +31,10 @@ Every line of code should be tactical, every design intentional.
 ---
 
 ## 📫 Connect
--  
 - [LinkedIn](https://www.linkedin.com/in/vaishnavan10/)  
-- 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/luffy-one-piece.gif" width="250" alt="Luffy AI vibe" />
+  <img src="https://media.tenor.com/3bTxZ6Q2a3IAAAAC/zoro-one-piece.gif" width="250" alt="Zoro AI vibe" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
-
-### 🕶️ Rule #1
-You do not talk about Fight Club.  
