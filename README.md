@@ -1,6 +1,6 @@
 # 👾 Vaishnavan S  
 
-> *“The things you own end up owning you.”* – Fight Club  
+> *“The things you own end up owning you.”*
 
 Welcome to my digital playground.  
 I build, break, and rebuild — code, systems, and ideas.  
@@ -20,9 +20,6 @@ I build, break, and rebuild — code, systems, and ideas.
 - Exploring **AI + Cybersecurity** intersections  
 
 ---
-  
-
----
 
 ## 🌌 Philosophy
 I believe in **minimalism with impact**.  
@@ -37,4 +34,3 @@ Every line of code should be tactical, every design intentional.
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/luffy-one-piece.gif" width="250" alt="Luffy AI vibe" />
   <img src="https://media.tenor.com/3bTxZ6Q2a3IAAAAC/zoro-one-piece.gif" width="250" alt="Zoro AI vibe" />
 </p>
----
