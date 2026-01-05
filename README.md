@@ -13,6 +13,7 @@ I build, break, and rebuild — code, systems, and ideas.
 - **Skills:** Vulnerability Scanning • NLML  
 
 ---
+
 <p align="left">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-wave.gif" width="150" alt="Anime Wave" />
 </p>
@@ -21,12 +22,6 @@ I build, break, and rebuild — code, systems, and ideas.
 - Learning By Doing
 - Sharpening my edge in **cybersecurity** while exploring creative UI design  
 - Exploring **AI + Cybersecurity** intersections  
-
----
-
-## 🌌 Philosophy
-I believe in **minimalism with impact**.  
-Every line of code should be tactical, every design intentional.  
 
 ---
 
