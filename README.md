@@ -52,15 +52,24 @@ A simulation of zero-click exploits in mobile environments for educational and d
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavanS&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
+<table align="center" border="0">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <!-- Most Used Languages -->
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaishnavanS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <!-- GitHub Stats Card (Stable) -->
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=vaishnavanS&show_icons=true&theme=tokyonight&hide_border=true" alt="Vaishnavan's Stats" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <!-- Top Languages (Stable Mirror) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaishnavanS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-  <!-- GitHub Trophies (Very Stable Alternative to Streak) -->
+  <!-- Trophies (Kept below in single line to avoid crowding side-by-side) -->
   <img src="https://github-profile-trophy.vercel.app/?username=vaishnavanS&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
