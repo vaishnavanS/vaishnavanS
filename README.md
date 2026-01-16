@@ -57,11 +57,11 @@ A simulation of zero-click exploits in mobile environments for educational and d
 </p>
 
 <p align="center">
-  <!-- Top Languages (Stable Alternative) -->
+  <!-- Top Languages (Stable Mirror) -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaishnavanS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
-  <!-- Streak Stats (Reliable Counter) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavanS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Trophies (Very Stable Alternative to Streak) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavanS&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 
