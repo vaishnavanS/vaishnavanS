@@ -50,11 +50,17 @@ A simulation of zero-click exploits in mobile environments for educational and d
 ---
 
 ### 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavanS&show_icons=true&theme=transparent&hide_border=true" alt="Vaishnavan's Stats" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavanS&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
+  <!-- Top Languages (Stable Alternative) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaishnavanS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+  <!-- Streak Stats (Reliable Counter) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavanS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
